@@ -9,11 +9,12 @@ public class Test1 {
 		System.out.println("Test11");
 	}
 
-	//GIT new line add and commit the same
 	// GIT new line add and commit the same
 	// GIT new line add and commit the same
 	// GIT new line add and commit the same
 	// GIT new line add and commit the same
+	// GIT new line add and commit the same
+	// new branch changes
 	@Test
 	public void Test12() {
 		System.out.println("Test12");
