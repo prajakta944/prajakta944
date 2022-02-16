@@ -11,9 +11,6 @@ public class Test1 {
 
 	//GIT new line add and commit the same
 	// GIT new line add and commit the same
-	// GIT new line add and commit the same
-	// GIT new line add and commit the same
-	// GIT new line add and commit the same
 	//qwertyu
 	@Test
 	public void Test12() {
