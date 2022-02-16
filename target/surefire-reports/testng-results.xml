@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-15T14:49:16 IST" name="Suite" finished-at="2022-02-15T14:49:16 IST" duration-ms="49">
+    <groups>
+    </groups>
+    <test started-at="2022-02-15T14:49:16 IST" name="Test" finished-at="2022-02-15T14:49:16 IST" duration-ms="49">
+      <class name="selenium.MavenSelProject.TestTest">
+        <test-method signature="TestTest1()[pri:0, instance:selenium.MavenSelProject.TestTest@169e6180]" started-at="2022-02-15T14:49:16 IST" name="TestTest1" finished-at="2022-02-15T14:49:16 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTest1 -->
+        <test-method signature="TestTest2()[pri:0, instance:selenium.MavenSelProject.TestTest@169e6180]" started-at="2022-02-15T14:49:16 IST" name="TestTest2" finished-at="2022-02-15T14:49:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTest2 -->
+        <test-method signature="TestTest3()[pri:0, instance:selenium.MavenSelProject.TestTest@169e6180]" started-at="2022-02-15T14:49:16 IST" name="TestTest3" finished-at="2022-02-15T14:49:16 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTest3 -->
+      </class> <!-- selenium.MavenSelProject.TestTest -->
+      <class name="selenium.MavenSelProject.Test1">
+        <test-method signature="Test11()[pri:0, instance:selenium.MavenSelProject.Test1@2fb3536e]" started-at="2022-02-15T14:49:16 IST" name="Test11" finished-at="2022-02-15T14:49:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test11 -->
+        <test-method signature="Test12()[pri:0, instance:selenium.MavenSelProject.Test1@2fb3536e]" started-at="2022-02-15T14:49:16 IST" name="Test12" finished-at="2022-02-15T14:49:16 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test12 -->
+        <test-method signature="Test13()[pri:0, instance:selenium.MavenSelProject.Test1@2fb3536e]" started-at="2022-02-15T14:49:16 IST" name="Test13" finished-at="2022-02-15T14:49:16 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test13 -->
+      </class> <!-- selenium.MavenSelProject.Test1 -->
+      <class name="selenium.MavenSelProject.Main">
+        <test-method signature="Main1()[pri:0, instance:selenium.MavenSelProject.Main@3bf9ce3e]" started-at="2022-02-15T14:49:16 IST" name="Main1" finished-at="2022-02-15T14:49:16 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Main1 -->
+        <test-method signature="Main2()[pri:0, instance:selenium.MavenSelProject.Main@3bf9ce3e]" started-at="2022-02-15T14:49:16 IST" name="Main2" finished-at="2022-02-15T14:49:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Main2 -->
+        <test-method signature="Main3()[pri:0, instance:selenium.MavenSelProject.Main@3bf9ce3e]" started-at="2022-02-15T14:49:16 IST" name="Main3" finished-at="2022-02-15T14:49:16 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Main3 -->
+      </class> <!-- selenium.MavenSelProject.Main -->
+      <class name="selenium.MavenSelProject.MainTest">
+        <test-method signature="MainTest1()[pri:0, instance:selenium.MavenSelProject.MainTest@35aea049]" started-at="2022-02-15T14:49:16 IST" name="MainTest1" finished-at="2022-02-15T14:49:16 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MainTest1 -->
+        <test-method signature="MainTest2()[pri:0, instance:selenium.MavenSelProject.MainTest@35aea049]" started-at="2022-02-15T14:49:16 IST" name="MainTest2" finished-at="2022-02-15T14:49:16 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MainTest2 -->
+        <test-method signature="MainTest3()[pri:0, instance:selenium.MavenSelProject.MainTest@35aea049]" started-at="2022-02-15T14:49:16 IST" name="MainTest3" finished-at="2022-02-15T14:49:16 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MainTest3 -->
+      </class> <!-- selenium.MavenSelProject.MainTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

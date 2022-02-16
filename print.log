@@ -1,0 +1,5 @@
+2022-02-15 22:58:00,610 DEBUG s.M.LoggerTC [main] Getting the frames count
+2022-02-15 22:58:00,665 INFO s.M.LoggerTC [main] Frames count retreived
+2022-02-15 22:58:00,679 INFO s.M.LoggerTC [main] Successfully switched to frame
+2022-02-15 22:58:00,679 DEBUG s.M.LoggerTC [main] Identifying Draggable objects
+2022-02-15 22:58:01,017 INFO s.M.LoggerTC [main] Drag and drop success
